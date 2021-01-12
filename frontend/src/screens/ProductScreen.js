@@ -1,5 +1,5 @@
 import React from 'react'
-import Product from './../components/product';
+import Product from '../components/Product';
 //import ProductScreen from './ProductScreen';
 
 import data from '../data';
